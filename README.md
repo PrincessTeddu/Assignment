@@ -10,7 +10,7 @@ Good coding mostly equals separating concerns.
   - Uses Draft.js for rich text editing
   - User interface must be Material-UI
   - Firebase Authentication
-  - 
+    
 – Backend (servidor):
   
   - Express.js server
