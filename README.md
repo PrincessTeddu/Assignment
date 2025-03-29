@@ -32,4 +32,4 @@ I've looked through both server and client configuration files and found out wha
 # link
 This is the basic sturcture i created before working on this project
 
-https://www.loom.com/share/6cab2a21c0114a5381f593bc3b2e4372
+https://www.loom.com/share/8d5d77a6e9134ab9b2fcaae156a54d4f?sid=afb866ef-f918-4d28-afd3-b50ee52174d2
